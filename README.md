@@ -69,4 +69,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Feel free to contact us at [your-email@example.com](mailto:naveenmadhavan131@gmail.com) for any questions or feedback!
+Feel free to contact us at [naveenmadhavan131@gmail.com](mailto:naveenmadhavan131@gmail.com) for any questions or feedback!
